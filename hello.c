@@ -12,6 +12,8 @@
 
 printf("Gary Pekarek\n");
 printf("Undeclared\n");
+printf("Cleve Young\n");
+printf("Mathematics\n");
 
 return 0;
 
