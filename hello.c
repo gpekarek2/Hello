@@ -1,6 +1,6 @@
 /**
- * Author: Gary Pekarek
- * Date: 2020/August/17
+ * Author: Gary " Pek" Pekarek
+ * Date: 2020/August/19
  *
  * A Simple hello world program in C
  *
@@ -10,7 +10,8 @@
 
  int main(int argc, char **argv) {
 
-printf("Hello World!\n");
+printf("Gary Pekarek\n");
+printf("Undeclared\n");
 
 return 0;
 
